@@ -23,16 +23,4 @@
 </div>
   
   ##
- 
-<div> 
-  <a href="https://instagram.com/luizgustavodev" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
-<a href="https://discord.gg/ G9GPg5SA75 "target="_blank"> <img src =" https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a>
-  <a href = "mailto: contato@rafaballerini.tech "> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-<a href="https://discord.gg/ pDbY76q8Qf "target="_blank"> <img src =" https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a>
-  <a href = "mailto: gustavopktd@hotmail.com "> <img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-"> </a>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-martins-035b06189" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-% 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
 
-  ! [ Animação de cobra ] (https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
