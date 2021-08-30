@@ -5,7 +5,9 @@
 - 📖 Estudando front-end.
 - 👨‍🎓 Graduando Ciência da Computação.
 - 👨‍🚀 O Foguete não tem rê!
-- 
+
+##
+
   <div>
   <a href="https://github.com/LuizGustavoMR">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LuizGustavoMR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
