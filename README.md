@@ -1,10 +1,10 @@
 
 <!- Olá! Eu sou o Luiz Gustavo ->
 
-- 👨‍💻 Hoje trabalhando com Analista de Suporte.
-- 📖 Estudando front-end.
-- 👨‍🎓 Graduando Ciência da Computação.
-- 👨‍🚀 O Foguete não tem rê!
+- 👨‍💻 Hoje Desenvolvedor.
+- 📖 Estudando front-end sempre.
+- 👨‍🎓 Ciência da Computação.
+- 👨‍🚀 Rumo ao topo!
 
 ##
 
